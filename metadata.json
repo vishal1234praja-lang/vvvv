@@ -2,5 +2,7 @@
   "name": "Asteroids 1979 Arcade",
   "description": "Classic 1979 Asteroids arcade game clone in HTML5 Canvas with vector graphics, physics, particle explosions, and Web Audio API synthesized sound.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
